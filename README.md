@@ -4,29 +4,6 @@
 * A tutorial on using the Issues feature of Github repos: https://docs.google.com/presentation/d/1cOl2yYB1dNMyZLYzaQJr8-_Vh4c_WyI0WQ4PuOSVMXI/edit#slide=id.p
 * More resources on using Github: https://docs.google.com/document/d/1joLtmP7U5VfFFyso0zL7bI0Tme8rrIIjYzjB5QJIxj8/edit?usp=sharing
 
-# Template
-Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/overview/blob/main/repo_guidelines.md
-
-This repo is a template for all EDGI templates. Replace this paragraph with a description of the repo.
-
-# How to start contributing to this repo
-* Instructions go here
-* Developer setup (if relevant)
-* Slack channel (if relevant)
-
-**Suggestions for additional components of Readmes:**
-* A "How to use" section if the repo's project is a tool or website
-* A link to the [good-first-issue](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue+user%3Aedgi-govdata-archiving) label (this link across EDGI, or a specific link for the repo)
-* Highlight "ready" label on issues to mean "this is an issue that is ready to work on and needs an owner"
-* Additional badges at the top, such as code quality indicators
-* "[All contributors](https://github.com/kentcdodds/all-contributors#emoji-key)" listing, following these additional guidelines (example: [web-monitoring-db contributors list](https://github.com/edgi-govdata-archiving/web-monitoring-db#contributors)):
-  - Compact representation without avatars (less visual noise; easier to focus on contributions)
-  - Icons are links with title attributes (accessibility)
-  - Alphabetical order by surname/name/username (to eliminate implied ranking)
-  - Presence in the list (and the name used) is optional and up to the contributor (not everyone wants to be listed — we offer, but do not add unless someone explicitly says yes)
-
-**When using this template, please look through all of the files to ensure they apply to the new repo.**
-
 ---
 
 ## License & Copyright
